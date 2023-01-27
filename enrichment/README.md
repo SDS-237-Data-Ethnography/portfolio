@@ -19,7 +19,7 @@ To earn enrichment credit, you should complete three of the following by the end
 
 ### Option 1: Lead a class reading dicussion
 
-> Lead a 30-minute class reading discussion. In this role, you will prepare a written discussion plan in `discussion-plan.Rmd` that summarizes the main arguments/key points of the assigned reading (in at least 250 words, lists 5 memorable quotes from the reading with page numbers, synthesizes 2-3 key issues that came up in the Perusall threads, lists out 3-4 discussion questions, and includes 5 links to relevant articles, videos, stories, images, etc, that you may reference during discussion. During class, you will summarize the week’s reading and Perusall discussions in the first 5 minutes, and then lead the class discussion, drawing from your questions and materials.
+> Lead a 30-minute class reading discussion. In this role, you will prepare a written discussion plan in `discussion-plan.Rmd` that summarizes the main arguments/key points of the assigned reading (in at least 250 words, lists 5 memorable quotes from the reading with page numbers, synthesizes 2-3 key issues that came up in the Perusall threads, lists out 3-4 discussion questions, and includes 5 links to relevant articles, videos, stories, images, etc, that you may reference during discussion. During class, you will summarize the week’s reading and Perusall discussions in the first 5 minutes, and then lead the class discussion, drawing from your questions and materials.  You must meet with Rose 1-2 days before the discussion to have your materials approved. DM Rose to schedule the meeting and send her your materials before meeting.
 
 ### Option 2: Ethnographic Reflexivity Memo
 
@@ -29,7 +29,7 @@ To earn enrichment credit, you should complete three of the following by the end
 
 > Write a 500-600-word memo in `fieldnote-synthesis.Rmd` synthesizing and making broader connections across at least 3 of your journal entries. What have you learned about how data and culture co-constitute each other via your fieldnotes? You might think about how data discourse, education, expertise, or infrastructures materialize, operate, transform, or get contested. Be sure to cite specific examples from each of the entries in your response.
 
-### Option 4: Double Community Labor
+### Option 4: Read the Entire Cooking Data book
 
-> Earn 16 community labor points. 
+> Earn 8 community labor points. 
 
