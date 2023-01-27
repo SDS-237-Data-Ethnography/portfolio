@@ -17,10 +17,9 @@ The course mini-projects will provide you with opportunities to practice ethnogr
 
 For your first mini-project assignment, you should select one of the following options to complete. For your second mini-project assignment, you should select a **separate** option to complete. Detailed instructions for each mini-project are listed on the READMEs of each sub-directory in this directory. 
 
-### Option 1: [Interview a data professional](interview)
-### Option 2: [Cultural analysis of a data infrastructure](infrastructural-analysis)
-### Option 3: [Discourse Analysis](discourse-analysis)
-### Option 4: [Participant Observation](participant-observation)
+### Option 1: [Discourse Analysis](discourse-analysis)
+### Option 2: [Interview a data professional](interview)
+### Option 3: [Participant Observation](participant-observation)
 
 Each of these assignments involves collecting some ethnographic data, interpreting the data, determining a central point that the data supports, and then writing it up in a memo that draws from your data to support that point. This means that mini-project write-ups will be more polished than your fieldnotes (i.e. you don't need to identify and support a central point or argument in your fieldnotes).
 
@@ -43,9 +42,9 @@ After receiving feedback from me on both submissions, you will have an opportuni
 
 | Assignment           | Due Date          |
 |:-----------------:|:-------------------:|
-| Mini-Project 1 | March 9, 2022 |
-| Mini-Project 2 | April 4, 2022     |
-| Substantive Revision | April 25, 2022    |
+| Mini-Project 1 | March 23, 2023 |
+| Mini-Project 2 | April 11, 2023     |
+| Substantive Revision | May 2, 2023    |
 
 ## Rubric for Initial Submission
 
