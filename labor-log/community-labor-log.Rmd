@@ -37,20 +37,17 @@ my_labor <- tibble(Labor = character(), Date = character()) %>%
   add_row(Labor = "[Slack Engagement 6]()", Date = NA) %>%
   add_row(Labor = "[Slack Engagement 7]()", Date = NA) %>%
   add_row(Labor = "[Slack Engagement 8]()", Date = NA) %>%
-  add_row(Labor = "[Slack Engagement 9]()", Date = NA) %>%
-  add_row(Labor = "[Slack Engagement 10]()", Date = NA) %>%
-  add_row(Labor = "[Slack Engagement 11]()", Date = NA) %>%
-  add_row(Labor = "[Slack Engagement 12]()", Date = NA) %>%
-  add_row(Labor = "[Slack Engagement 13]()", Date = NA) %>%
-  add_row(Labor = "[Slack Engagement 14]()", Date = NA) %>%
-  add_row(Labor = "[Slack Engagement 15]()", Date = NA) %>%
-  add_row(Labor = "[Slack Engagement 16]()", Date = NA) %>%
+  add_row(Labor = "[Class Notes 1]()", Date = NA) %>%
+  add_row(Labor = "[Class Notes 2]()", Date = NA) %>%
+  add_row(Labor = "[Class Notes 3]()", Date = NA) %>%
+  add_row(Labor = "[Class Notes 4]()", Date = NA) %>%
   add_row(Labor = "Group Evaluations", Date = NA) %>%
   add_row(Labor = "Peer Review Workshop 1", Date = NA) %>%
   add_row(Labor = "Peer Review Workshop 2", Date = NA) %>%
   add_row(Labor = "Peer Review Workshop 3", Date = NA) %>%
   ##Calculating points based on what was recorded 
-  mutate(Points = case_when(grepl("slack.com", Labor) & !is.na(Date) ~ 1,
+  mutate(Points = case_when(grepl("Slack", Labor) & grepl("slack.com", Labor) & !is.na(Date)~ 1,
+                            grepl("Class", Labor) & grepl("slack.com", Labor) & !is.na(Date)~ 2,
                             Labor == "Group Evaluations" & !is.na(Date) ~ 2,
                             grepl("Peer", Labor) & !is.na(Date) ~ 2,
                             TRUE ~ 0)) %>%
@@ -62,7 +59,6 @@ my_labor <- tibble(Labor = character(), Date = character()) %>%
 ```{r making your table, echo = FALSE}
 kable(my_labor) %>%
   kable_paper("hover", full_width = F, position = "left") %>% ##Aesthetics
-  row_spec(21, bold = T, color = "white", background = "#D7261E") ##highlight the total row
-
+  row_spec(nrow(my_labor), bold = T, color = "white", background = "#D7261E") ##highlight the total row
 ```
 

@@ -9,7 +9,7 @@ Your community labor will be kept track of through the Community Labor Log in `c
 1. Open `community-labor-log.Rmd`.
 2. Find the corresponding labor in the Community Labor Table.  
 3. Update the Date to reflect when you completed the labor.  For example, to record your first Peer Review Workshop, find the line `add_row(Labor = "Peer Review Workshop 1", Date = NA)`, and change `Date = NA` to `Date = "2/21"`. Make sure the date is in quotes.  
-4. If you're recording Slack Engagement, you **must** add a link to your post.  To add a link, hover over your message on Slack, click “More Actions”, then click on “Copy link”.  Find the `add_row` for the engagement, and paste your link between the `()` of `[Slack Engagement #]()`.  It should say `[Slack Engagement #](Your Link Here)`.  
+4. If you're recording Slack Engagement or Class Notes, you **must** add a link to your post.  To add a link, hover over your message on Slack, click “More Actions”, then click on “Copy link”.  Find the `add_row` for the engagement, and paste your link between the `()` of `[Slack Engagement #]()`.  It should say `[Slack Engagement #](Your Link Here)`.  
 5. Knit the document to see your Community Labor Log complete.  
 6. (optional) update your table using the kableExtra package to look how you'd like!
 
@@ -18,7 +18,7 @@ Your community labor will be kept track of through the Community Labor Log in `c
 
 | Entry           | Due Date          |
 |-----------------|-------------------|
-| Labor Check 1 | March 9, 2022 |
-| Labor Check 2 | April 25, 2022     |
+| Labor Check 1 | March 9, 2023 |
+| Labor Check 2 | May 2, 2023  |
 
 
