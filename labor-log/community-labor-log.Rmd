@@ -48,7 +48,7 @@ my_labor <- tibble(Labor = character(), Date = character()) %>%
   ##Calculating points based on what was recorded 
   mutate(Points = case_when(grepl("Slack", Labor) & grepl("slack.com", Labor) & !is.na(Date)~ 1,
                             grepl("Class", Labor) & grepl("slack.com", Labor) & !is.na(Date)~ 2,
-                            Labor == "Group Evaluations" & !is.na(Date) ~ 2,
+                            Labor == "Group Evaluations" & !is.na(Date) ~ 1,
                             grepl("Peer", Labor) & !is.na(Date) ~ 2,
                             TRUE ~ 0)) %>%
   ##Removing the hyperlink indicators from non-linked Slack Posts
