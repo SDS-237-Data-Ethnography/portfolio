@@ -31,7 +31,7 @@ To earn enrichment credit, you should complete three of the following by the end
 
 ### Option 4: Double Community Labor
 
-> Earn 8 community labor points by October 30. Earn an additional 8 community labor points by the end of the semester.
+> Earn 8 community labor points by March 9. Earn an additional 8 community labor points by the end of the semester.
 
 ### Option 5: *Cooking Data* Reflection
 
