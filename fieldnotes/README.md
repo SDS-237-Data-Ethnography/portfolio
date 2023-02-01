@@ -33,7 +33,7 @@ Your response should be recorded under the appropriate heading in the field-jour
 | Journal Entry 2 | March 7, 2023     |
 | Journal Entry 3 | March 30, 2023    |
 | Journal Entry 4 | April 13, 2023     |
-| Journal Entry 5 | April 27, 2023   |
+| Journal Entry 5 | April 27, 2023    |
 
 ## Guiding Prompts
 
