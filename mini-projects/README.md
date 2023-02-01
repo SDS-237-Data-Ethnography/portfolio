@@ -43,9 +43,9 @@ After receiving feedback from me on both submissions, you will have an opportuni
 
 | Assignment           | Due Date          |
 |:-----------------:|:-------------------:|
-| Mini-Project 1 | March 9, 2022 |
-| Mini-Project 2 | April 4, 2022     |
-| Substantive Revision | April 25, 2022    |
+| Mini-Project 1 | March 23, 2023 |
+| Mini-Project 2 | April 11, 2023     |
+| Substantive Revision | May 2, 2023    |
 
 ## Rubric for Initial Submission
 
