@@ -31,5 +31,10 @@ To earn enrichment credit, you should complete three of the following by the end
 
 ### Option 4: Read the Entire Cooking Data book
 
-> Earn 8 community labor points. 
+> Earn 8 community labor points by March 9. Earn an additional 8 community labor points by the end of the semester.
+
+### Option 5: *Cooking Data* Reflection
+
+> Finish reading *Cooking Data*. Write a 500-600-word memo responding to the following prompt: .... Your memo must have a thesis statement that makes one succinct argument in the first paragraph, along with three supporting points. You should reference specific examples from the book (including at least one from an unassigned chapter) to back up your three supporting points. 
+
 
