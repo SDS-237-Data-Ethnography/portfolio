@@ -29,11 +29,11 @@ Your response should be recorded under the appropriate heading in the field-jour
 
 | Entry           | Due Date          |
 |-----------------|-------------------|
-| Journal Entry 1 | February 16, 2022 |
-| Journal Entry 2 | March 2, 2022     |
-| Journal Entry 3 | March 23, 2022    |
-| Journal Entry 4 | April 6, 2022     |
-| Journal Entry 5 | April 20, 2022    |
+| Journal Entry 1 | February 21, 2023 |
+| Journal Entry 2 | March 7, 2023     |
+| Journal Entry 3 | March 30, 2023    |
+| Journal Entry 4 | April 13, 2023     |
+| Journal Entry 5 | April 27, 2023   |
 
 ## Guiding Prompts
 
