@@ -18,7 +18,7 @@ Your community labor will be kept track of through the Community Labor Log in `c
 
 | Entry           | Due Date          |
 |-----------------|-------------------|
-| Labor Check 1 | March 9, 2022 |
-| Labor Check 2 | April 25, 2022     |
+| Labor Check 1 | March 9, 2023 |
+| Labor Check 2 | May 4, 2023     |
 
 
