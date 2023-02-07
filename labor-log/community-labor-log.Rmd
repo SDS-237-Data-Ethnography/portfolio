@@ -1,6 +1,6 @@
 ---
-title: "[Your Name's] Community Labor Log"
-author: "Your Name Here"
+title: "[Anny(Jiaqi) Li] Community Labor Log"
+author: "Anny(Jiaqi) Li"
 output: 
   html_document:
     theme: simplex

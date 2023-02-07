@@ -1,6 +1,6 @@
 ---
 title: "SDS 237 - Field Journal"
-author: "YOUR NAME HERE"
+author: "Anny(Jiaqi) Li"
 date: "Last updated on `r Sys.Date()`"
 output: pdf_document
 ---
@@ -14,15 +14,23 @@ library(lubridate)
 ## Journal Entry 1
 
 ```{r metadata_1, echo=FALSE, results='asis'}
-observer_1 <- "FILL YOUR NAME"
-date_observed_1 <- mdy("01/01/1990")
-date_written_up_1 <- mdy("01/01/1990")
-location_1 <- "FILL LOCATION"
+observer_1 <- "Anny(Jiaqi) Li"
+date_observed_1 <- mdy("02/14/2022")
+date_written_up_1 <- mdy("02/15/2022")
+location_1 <- "Chase House 1st floor"
 
 cat(paste0("This entry documents a data environment ", observer_1, " observed on ", date_observed_1, " in ", location_1, ". The observations were written up on ", date_written_up_1, "."))
 ```
 
-[Enter your write-up here.]
+My friend M and me were having a conversation about the limitations of Big Data. 
+
+While doing her CS homework in the living room of Chase House, M started talking about how strongly she believed in the predictive and calculating power of Big Data. “I believe that everything in this material world interact with each other and all the phenomenon, whether observed or not by humans, is a result of such interaction” M said with an excitement on her face. She continued: “Since Big Data is capable of discovering the pattern and interaction hiding behind different data, if we could gather enough data that captures everything in the physical world, then we can even predict the future. ” Her argument reminded me of the classical determinist idea ---- Laplace’s demon, which states that if we know how every atom in the universe work, then we could plug this information into a formula and predict the future. It is indeed very exciting to imagine the scenario where humans have full control of everything in the world. 
+
+However, technology we have today is not advanced enough to measure and collect everything and I highly doubt that we would ever be able to do that. The Uncertainty Principle in Quantum Physics has already proposed the idea that the position and velocity of atoms cannot be both measured exactly in theory, and the closest measurement we could reach is probability cloud, which only provides us a probability of detecting a given particle in a certain space. Though this principle is not necessarily true, it still makes me to think that there are limitations to the capability of Big Data. Besides the limitation of its capability, Big Data employs mostly **inductive reasoning** because it collects data based on observations, come up with a model to best explain the relationship between data, which could be called generalization, and finally arrive at its conclusion. Unlike **deductive reasoning**, starting from a paradigm, inductive reasoning could not guarantee the conclusion is 100% true even with extremely strong evidence supporting it.  
+An **interpretivist** could argue that no matter how strong the association between two variables are, it could be just an illusion. 
+
+After hearing my view about Big Data, M refuted: “If everyone is as nihilistic as you, the society would achieve nothing, it would be a total failure”. 
+
 
 ## Journal Entry 2 
 

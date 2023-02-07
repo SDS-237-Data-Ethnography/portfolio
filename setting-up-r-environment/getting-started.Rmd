@@ -1,8 +1,13 @@
 ---
 title: "Getting Started"
-author: "ADD YOUR NAME"
+author: "Jiaqi Li"
 date: "1/24/2022"
-output: html_document
+output:
+  pdf_document:
+    toc: true
+  html_document:
+    toc_float: true
+bibliography: setting-up.bib
 csl: ../resources/chicago-author-date.csl
 ---
 
@@ -91,7 +96,7 @@ There are three things that we need to do to add citations from our .bib file in
 
 > After successfully completing checkpoint 4, commit your code again. Additionally, commit your setting-up.bib file.
 
-DELETE THIS TEXT AND ADD AN IN-TEXT CITATION 
+@xie2018r
 
 **Note that empty .bib's have already been provided in all of your assignment folders in this portfolio, so you need only copy and paste BibTex entries into those files. We've also already added references to those files and the appropriate .csl files to the assignment YAML headers.**  
 
@@ -135,7 +140,7 @@ Section 3 of [this Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/0
 
 > After successfully completing checkpoint 5, commit your code again.
 
-Make THIS TEXT bold. 
+**Make THIS TEXT bold. **
 
 ### Markdown and Line Spacing 
 
@@ -171,7 +176,10 @@ Section 5 of [this Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/0
 
 > After successfully completing checkpoint 6, commit your code again.
 
-DELETE THIS TEXT AND ADD CODE CHUNK HERE
+```{r fig.width=3,fig.height=3}
+plot(cars)
+```
+
 
 
 Notice how the object `sum` showed up in our Environment tab on the top right.  Any new object we make with the assignment symbol `<-` will show there.  If you press the broom icon in the Environment tab, your list of objects will be cleared.  It can be nice to clear your Environment if you have many objects that you aren't using.  Since we have the code to remake `sum`, we don't have to worry if we clear it from the Environment.  
