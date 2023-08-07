@@ -42,14 +42,6 @@ After receiving feedback from me on both submissions, you will have an opportuni
 * Student submits a revision plan with descriptions of at least three pieces of feedback they plan to address in their revision and an indication of how they will address it.
 * Student submits a revised version of one of their MPs. 
 
-## Due Dates
-
-| Assignment           | Due Date          |
-|:-----------------:|:-------------------:|
-| Mini-Project 1 | March 23, 2023 |
-| Mini-Project 2 | April 11, 2023     |
-| Substantive Revision | May 2, 2023    |
-
 ## Rubric for Initial Submission
 
 | Question                                                                                                                | Response |
