@@ -23,18 +23,6 @@ Your response should be recorded under the appropriate heading in the field-jour
 2. Be sure to use Markdown syntax to **bold** the *Knowledge and Understanding* concept you engage in your write-up. 
 3. If you wish to add images to your write-up, you may include them in the img folder and then reference them directly through R Markdown. 
 
-## Due Dates
-
-> Remember that you only need to complete four entries, and you may select which four you complete. 
-
-| Entry           | Due Date          |
-|-----------------|-------------------|
-| Journal Entry 1 | February 21, 2023 |
-| Journal Entry 2 | March 7, 2023     |
-| Journal Entry 3 | March 30, 2023    |
-| Journal Entry 4 | April 13, 2023     |
-| Journal Entry 5 | April 27, 2023    |
-
 ## Guiding Prompts
 
 The following prompts can help guide you in your observation/writing:
