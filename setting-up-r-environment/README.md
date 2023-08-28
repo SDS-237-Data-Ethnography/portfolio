@@ -46,4 +46,4 @@ library(rmarkdown)
 
 <p><a href="https://vimeo.com/511805399">General Workflow: Push</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-16. Navigate to https://github.com/SDS-237-Data-Ethnography-Spring-22/portfolio-YOUR_USER_NAME and click on the Pull Requests tab. Click New Pull Request. Where the button says 'base: ' make sure 'main' is selected. Where the button says 'compare: ' make sure your branch is selected. Click Create Pull Request.
+16. Navigate to https://github.com/SDS-237-Data-Ethnography-Spring-23/portfolio-YOUR_USER_NAME and click on the Pull Requests tab. Click New Pull Request. Where the button says 'base: ' make sure 'main' is selected. Where the button says 'compare: ' make sure your branch is selected. Click Create Pull Request.
