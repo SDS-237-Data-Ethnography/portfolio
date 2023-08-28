@@ -28,9 +28,10 @@ cat(paste0("This entry documents a data environment ", observer_1, " observed on
 > Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
 
 [ ] Write-up is 300-400 words.
-[ ] Write-up is specifically *about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
 [ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
-[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension. 
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
 [ ] The concept is **bolded** in the write-up. 
 
 ## Journal Entry 2 
@@ -50,9 +51,10 @@ cat(paste0("This entry documents a data environment ", observer_2, " observed on
 > Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
 
 [ ] Write-up is 300-400 words.
-[ ] Write-up is specifically *about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
 [ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
-[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension. 
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
 [ ] The concept is **bolded** in the write-up. 
 
 ## Journal Entry 3
@@ -72,9 +74,10 @@ cat(paste0("This entry documents a data environment ", observer_3, " observed on
 > Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
 
 [ ] Write-up is 300-400 words.
-[ ] Write-up is specifically *about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
 [ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
-[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension. 
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
 [ ] The concept is **bolded** in the write-up. 
 
 ## Journal Entry 4
@@ -94,9 +97,10 @@ cat(paste0("This entry documents a data environment ", observer_4, " observed on
 > Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
 
 [ ] Write-up is 300-400 words.
-[ ] Write-up is specifically *about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
 [ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
-[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension. 
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
 [ ] The concept is **bolded** in the write-up. 
 
 ## Journal Entry 5
@@ -116,8 +120,9 @@ cat(paste0("This entry documents a data environment ", observer_5, " observed on
 > Enter an `x` between each [] in order to indicate that you're write-up meets the criteria.
 
 [ ] Write-up is 300-400 words.
-[ ] Write-up is specifically *about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
+[ ] Write-up is *primarily about* a statistic, dataset, data standard, or data collection environment encountered in the past two weeks.
 [ ] Write-up addresses the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
-[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension. 
+[ ] Write-up references and defines a concept from the course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension.
+[ ] **The referenced concept is specifically used to analyze the socio-cultural forces animating the data's cultural meaning.** 
 [ ] The concept is **bolded** in the write-up. 
 
