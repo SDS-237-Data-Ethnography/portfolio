@@ -17,12 +17,14 @@ Ethnographers keep field journals to thickly document what they observe in socia
 
 1. Consider a statistic, dataset, data standard, or data collection environment that you encountered **in the past two weeks**.
 2. Fill out the metadata for your data observation under the appropriate heading in the `field-journal.Rmd` document in this directory. Where and when did you observe the statistic, dataset, data standard, or data collection environment?
-3. Consider concepts from our course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimensionthat help you answer the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
+3. Consider concepts from our course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension that help you answer the question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
 4. Write 300-400 words, first, detailing the environment and the people involved and second, interpreting its meaning. In your write-up you should consider the following question: *What socio-cultural forces are at play in shaping this statistic, dataset, data standard, or data collection environment?*
 5. Reference and define at least one concept from our course's [*Knowledge and Understanding*](https://sds-237-data-ethnography.github.io/public-website-fall-23/learning_dimensions.html#knowledge-and-understanding) learning dimension. While our course concepts will be relevant to a number of environments, be sure to write about the dimensions of an environment where data are playing an immediate role. Be sure to use Markdown syntax to **bold** the *Knowledge and Understanding* concept you engage in your write-up.
 6. Complete the checklist in `field-journal.Rmd` to make sure that you completed all parts of the assignment.
 
-Note: If you wish to add images to your write-up, you may include them in the img folder and then reference them directly through R Markdown. 
+> The most common mistake I see students make when composing their field notes is this: Students will write about a social environment where data is present. They will also reference a course concept in their writing. ...but that course concept will be leveraged to analyze something else in the social environment - not the data. In other words, the presence of data will be just a side detail in their analysis. Since this is a data ethnography class, the goal of this assignment is to *culturally situate data*. Please make sure that your analysis is directed accordingly.
+
+If you wish to add images to your write-up, you may include them in the img folder and then reference them directly through R Markdown. 
 
 ## Other Guiding Prompts
 
