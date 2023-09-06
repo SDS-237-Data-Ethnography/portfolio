@@ -1,0 +1,20 @@
+---
+title: "SDS 237 - Mini-Project: Infrastructural Analysis Timeline"
+author: "YOUR NAME HERE"
+date: "Last updated on `r Sys.Date()`"
+output: pdf_document
+bibliography: infrastructural-analysis.bib
+csl: ../../resources/chicago-author-date.csl
+---
+
+> Complete your timeline entries below, including a date, a description of the event, a description of the stakeholder groups at the table, and a consideration of the impact on the infrastructure's master narrative.
+
+| Date | Description Event | Relevant Links | Description of Stakeholder Groups Involved | How did this event shape the infrastructure's master narrative? |
+|------|-------------------|----------------|--------------------------------------------|-----------------------------------------------------------------|
+|      |                   |                |                                            |                                                                 |
+|      |                   |                |                                            |                                                                 |
+|      |                   |                |                                            |                                                                 |
+|      |                   |                |                                            |                                                                 |
+|      |                   |                |                                            |                                                                 |
+|      |                   |                |                                            |                                                                 |
+|      |                   |                |                                            |                                                                 |
